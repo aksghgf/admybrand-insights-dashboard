@@ -86,4 +86,47 @@ Marketing teams often struggle to:
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
+## 🤖 AI Usage Report
+
+**Project**: ADmyBRAND Insights – AI-Powered Analytics Dashboard  
+**Developer**: Abhishek Tiwari  
+**Purpose**: Build a visually modern, responsive analytics dashboard using AI-assisted development practices.
+
 ---
+
+### 🧠 Overview of AI Usage
+
+This project was built with a strong focus on leveraging AI tools to accelerate development, ensure modular architecture, and maintain high-quality UI/UX standards. AI was used throughout the lifecycle — from layout planning and code scaffolding to styling and documentation.
+
+---
+
+### 🛠️ AI Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| **ChatGPT (GPT-4o)** | Main assistant for component scaffolding, layout structure, prompt engineering |
+| **GitHub Copilot** | Real-time code suggestions inside the code editor |
+| **Gemini** | UI layout ideas and design inspiration |
+| **Cursor IDE** | AI-powered in-editor debugging and code refactoring suggestions |
+
+---
+
+### 🔧 Key Use Cases
+
+- Created responsive layout scaffolding using AI prompts
+- Generated reusable React components (MetricCard, Chart, Table)
+- Implemented chart logic using `Recharts` with mock marketing data
+- Styled with TailwindCSS and `shadcn/ui` via AI suggestions
+- Added loading skeletons, hover animations, and transitions
+- Export functionality for CSV (via AI-generated logic)
+- Integrated dark/light mode toggle with local state
+
+---
+
+### 📋 Sample Prompts Used
+
+```plaintext
+1. "Create a responsive Next.js 14 dashboard layout with metric cards and charts using shadcn/ui"
+2. "Generate a reusable React component for a Pie chart using Recharts and Tailwind"
+3. "Add animated skeleton loaders for card and chart components"
+
