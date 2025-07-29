@@ -1,7 +1,3 @@
-Here’s a complete, organized README content for your project. You can copy and paste this directly into your `README.md` file:
-
----
-
 # ADmyBRAND Insights Dashboard
 
 ## 🚀 Project Overview
